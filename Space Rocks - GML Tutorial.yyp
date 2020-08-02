@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "094fdbed-4ee5-4ae8-b777-1814780c6f48",
+            "Value": {
+                "id": "39419b34-6bba-4ee1-b75b-1c39531277b2",
+                "resourcePath": "sounds\\msc_song\\msc_song.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "116c72bd-273f-4f33-b849-5de76a73be89",
             "Value": {
                 "id": "fefd217d-38fd-47ea-89ef-e62d42d977ad",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "6229bbe8-f316-425c-a251-9427624b748a",
+            "Value": {
+                "id": "18bc1d4f-893d-482e-85bb-264b1702ecb7",
+                "resourcePath": "sounds\\snd_zap\\snd_zap.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "63aa4192-24a1-4f77-861f-55bec1055919",
             "Value": {
                 "id": "93959887-a9cb-446c-88cf-cf13199bc969",
@@ -191,11 +207,27 @@
             }
         },
         {
+            "Key": "818b7f40-e115-4ff1-a31d-86622914b49e",
+            "Value": {
+                "id": "76af6dfc-4df5-48ac-9d21-320eba46df9f",
+                "resourcePath": "sounds\\snd_win\\snd_win.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "83047820-06e5-4f41-aa02-bf53dc560fce",
             "Value": {
                 "id": "435ac980-ba21-4358-8a52-78ca53d5d15c",
                 "resourcePath": "views\\83047820-06e5-4f41-aa02-bf53dc560fce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8603f781-193f-4239-b246-c91acdd19004",
+            "Value": {
+                "id": "5f3bdf06-f0e1-434c-9211-701ecb0885ca",
+                "resourcePath": "sounds\\snd_collision\\snd_collision.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -260,6 +292,22 @@
                 "id": "cee7a9a9-db85-43e5-9f29-5e117f89b617",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cefa7016-4e2a-4221-9070-b6ac3c5dc62e",
+            "Value": {
+                "id": "a09a7fe8-76e9-47f3-a042-0130a1a4a88c",
+                "resourcePath": "sounds\\snd_lose\\snd_lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "d4db45d1-4f4c-4459-893a-d87c1b26f2b9",
+            "Value": {
+                "id": "e88fb61d-54f3-4147-82f1-047a86c7fb75",
+                "resourcePath": "shaders\\shd_flash_white_spr\\shd_flash_white_spr.yy",
+                "resourceType": "GMShader"
             }
         },
         {
