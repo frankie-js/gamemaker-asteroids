@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="-11" y="-11" width="2560" height="1346" id="19" title="Space Rocks - GML Tutorial - GameMaker Studio 2" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[0, 0]" workspace_scale="1" />
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="317.8163dpi_px" active_tab="0">
+			<DockTab localise_title="Tutorial_WindowTitle" localise_arguments="[&quot;Space Rocks - GML&quot;]" cell_sizes="[622]" layout_id="dock_tab_1" layout_guid="2b893843-0580-4154-b99e-15b379212161">
+				<Module Command="tutorial_window_restore">
+					<TutorialHtmlWindow left="0px" right="" top="0px" bottom="" width="400dpi_px" height="800dpi_px" flags="CloseButton, MaximizeButton, ResizeButton" title="Tutorial: Space Rocks - GML" localise_title="Tutorial_WindowTitle" dock_type="eLeft" dock_tab_index="0" dock_list_index="0" dock_proportion="0.6227444" dock_tab_name="Tutorial: Space Rocks - GML" dock_tab_localise_name="Tutorial_WindowTitle" dock_tab_localise_arguments="[&#xD;&#xA;    &quot;Space Rocks - GML&quot;&#xD;&#xA;]" dock_tab_id="dock_tab_1" dock_tab_guid="2b893843-0580-4154-b99e-15b379212161" desktop="19" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Tutorial_WindowTitle" localise_arguments="[&quot;Space Rocks - GML&quot;]" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="82a2b080-b3af-4bff-b233-a14dc13c959c">
+				<Module Command="tutorial_window_restore">
+					<TutorialVideoWindow left="0px" right="" top="" bottom="" width="400dpi_px" height="300dpi_px" flags="CloseButton, MaximizeButton, ResizeButton" title="Tutorial: Space Rocks - GML" localise_title="Tutorial_WindowTitle" dock_type="eLeft" dock_tab_index="1" dock_list_index="0" dock_proportion="1" dock_tab_name="Tutorial: Space Rocks - GML" dock_tab_localise_name="Tutorial_WindowTitle" dock_tab_localise_arguments="[&#xD;&#xA;    &quot;Space Rocks - GML&quot;&#xD;&#xA;]" dock_tab_id="dock_tab_2" dock_tab_guid="82a2b080-b3af-4bff-b233-a14dc13c959c" desktop="19" />
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[874,125]" layout_id="dock_tab_1" layout_guid="d3390a87-c03b-483a-85e4-e9c17a166f7d">
+				<Module Command="open_resource_tree">
+					<ResourceWindow left="0px" right="" top="0px" bottom="" width="400px" height="600px" flags="CloseButton, ResizeButton" title="Resources" localise_title="ResourceTree_Title" active_view="Default" Scale="100" />
+				</Module>
+				<Module Command="open_recent_windows">
+					<RecentWindowsWindow left="" right="" top="" bottom="" width="400dpi_px" height="100dpi_px" flags="Default" title="Recent Windows" localise_title="recentwindows_title" />
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Collapsed" type="eBottom" restore_size="168.5333dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="3b9744eb-1c22-4bd2-9bb3-580cdc39bf12">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="730dc47c-18d4-4f1b-b8cb-fb8dbd781e21">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="8acc8ae2-82d0-47d7-9df2-225c991a3696">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="81f67ab8-3994-40a7-a6a7-f1bbdd7fbc62">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="83eb1db0-a4d7-4c07-8ffd-e4793b59a868">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="9199f4d7-592b-4ce8-9793-6ce1298047df">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.CorePlugins.Tutorials.TutorialsModule>
+			<Tutorials tutorial_url="index.html" video_index="0" video_position="0" />
+		</YoYoStudio.Plugins.CorePlugins.Tutorials.TutorialsModule>
+	</Modules>
+</Project>
